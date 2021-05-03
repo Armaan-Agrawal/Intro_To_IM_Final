@@ -1,0 +1,16 @@
+Joystick for final project
+Triangle	Triangle Button	1	BUTTON	Button 3	0	0.0	0.0
+Square	Square Button	1	BUTTON	Button 0	0	0.0	0.0
+Cross	Cross Button	1	BUTTON	Button 1	0	0.0	0.0
+Circle	Circle Button	1	BUTTON	Button 2	0	0.0	0.0
+Save	Options Button	1	BUTTON	Button 9	0	0.0	0.0
+Clear	Clear Button	1	BUTTON	Button 8	0	0.0	0.0
+Red	R1 button	1	BUTTON	Button 5	0	0.0	0.0
+Green	R2 Button	1	BUTTON	Button 7	0	0.0	0.0
+Yellow	L2 Button	1	BUTTON	Button 6	0	0.0	0.0
+Blue	L1 Button	1	BUTTON	Button 4	0	0.0	0.0
+Menu	Left Key	2	HAT	cooliehat: Hat Switch	0	4.0	0.0
+L_H_slider	Left Horizontal Slider	3	SLIDER	X Axis	0	1.0	0.0
+L_V_slider	Left Vertical Slider	3	SLIDER	Y Axis	0	1.0	0.0
+R_H_slider	Right Horizontal Slider	3	SLIDER	Z Axis	0	1.0	0.0
+R_V_slider	Right Vertical Slider	3	SLIDER	Z Rotation	0	1.0	0.0

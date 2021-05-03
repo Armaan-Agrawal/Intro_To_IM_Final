@@ -1,0 +1,5 @@
+To control car with bluetooth joystick
+X_slider	Horizontal Movement	3	SLIDER	X Axis	0	1.0	0.0
+Y_slider	Vertical Movement	3	SLIDER	Y Axis	0	1.0	0.0
+Brake	Stop the car	1	BUTTON	Button 1	0	0.0	0.0
+Lights	For Headlghts	1	BUTTON	Button 0	0	0.0	0.0
